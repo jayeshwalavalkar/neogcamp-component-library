@@ -25,18 +25,18 @@ hr {
     max-width: 600px;
 }
 
-.secondary-link {
-    text-decoration: none;
-    padding: 0.5em 1em;
-    border-radius: 0.5em;
-    color: var(--primary-colour);
-    border: 1px solid;
-}
-
 .primary-link {
     text-decoration: none;
     padding: 0.5em 1em;
     border-radius: 0.5em;
     background-color: var(--primary-colour);
     color: azure;
+}
+
+.secondary-link {
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border-radius: 0.5em;
+    color: var(--primary-colour);
+    border: 1px solid;
 }
