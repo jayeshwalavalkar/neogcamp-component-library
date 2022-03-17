@@ -4,6 +4,7 @@
   --primary-colour: #7c3aed;
   --white: #ffffff;
   --grey: #6b7280;
+  --off-white: #f1f5f9;
 }
 
 body {
@@ -78,8 +79,20 @@ hr {
 }
 
 .hero img {
-    max-width: 300px;
+  max-width: 300px;
   max-height: 300px;
-  display: block;
   margin: auto;
+  display: block;
+}
+
+.section-normal {
+  padding: 2em 0em;
+}
+
+.section-normal h2 {
+  text-align: center;
+}
+
+.section-ow {
+  background-color: var(--off-white);
 }
