@@ -96,3 +96,20 @@ hr {
 .section-ow {
   background-color: var(--off-white);
 }
+
+.footer {
+  background-color: var(--primary-colour);
+  color: var(--white);
+  padding: 2em 0em;
+  text-align: center;
+  border-top-right-radius: 1em;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
+}
